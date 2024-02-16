@@ -1,4 +1,4 @@
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -19,4 +19,18 @@
 ul {
   display: flex;
   gap: 3.2rem;
+}
+
+*/
+/* .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    margin-left: % !important;
+}
+
+.custom-navbar {
+  text-align: right !important;
+} */
+
+.right-side>img{
+    width: 100px;
+    height: 50px;
 }
