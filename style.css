@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Urbanist, system-ui, Avenir, Helvetica, sans-serif, Arial;
+  color-scheme: light dark;
+}
+.navbar {
+  max-width: 140rem;
+  padding: 4.2rem 2.4rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-side> {
+    background-image: url("img/NISSAN-GTR-LOGO.jpg");
+}
+
+ul {
+  display: flex;
+  gap: 3.2rem;
+}
